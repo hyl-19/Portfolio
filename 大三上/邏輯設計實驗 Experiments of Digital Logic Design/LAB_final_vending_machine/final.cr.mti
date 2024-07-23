@@ -1,0 +1,15 @@
+C:/electron/LAB_final/stimulus.v {1 {vlog -work work C:/electron/LAB_final/stimulus.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} C:/electron/LAB_final/vending_machine.v {1 {vlog -work work C:/electron/LAB_final/vending_machine.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module vending_machine
+
+Top level modules:
+	vending_machine
+
+} {} {}}

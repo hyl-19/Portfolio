@@ -1,0 +1,52 @@
+module stimulus;
+  
+  reg clk, reset;
+  reg[31:0] howManyTicket;
+  reg[2:0] origin, destination;
+  reg[31:0] money;
+  wire[31:0] costOfTicket, moneyToPay, totalMoney;   
+
+  vending_machine vm(clk, reset, howManyTicket, origin, destination, money, costOfTicket, moneyToPay, totalMoney);
+
+  initial clk = 1'b0;
+  always #5 clk = ~clk;
+  
+  initial begin 
+	$display( "        s1	s2	s3	s4	s5\ns1	5	10	15	20	25\ns2	10	5	10	15	20\ns3	15	10	5	10	15\ns4	20	15	10	5	10\ns5	25	20	15	10	5");
+  end
+
+  initial begin
+	  reset = 1;
+    #10 reset = 0;
+    origin = 2;
+    destination = 5;
+    #10 howManyTicket = 2;
+    #10 money = 10;
+    #10 money = 10;
+    #10 money = 10;
+    #10 money = 10;
+    #10 reset = 1;
+    
+    #10 reset = 0;
+    origin = 1;
+    destination = 5;
+    #10 howManyTicket = 3;
+    #10 money = 10;
+    #10 money = 10;
+    #10 reset = 1;
+    
+    #10 reset = 0;
+    origin = 1;
+    destination = 4;
+    #10 howManyTicket = 2;
+    #10 money = 10;
+    #10 money = 10;
+    #10 money = 50;
+    #10 reset = 1;
+    
+    $stop ;
+  end
+
+
+  //initial $monitor("costOfTicket : %d \t moneyToPay : %d \t totalMoney : %d\n", costOfTicket, moneyToPay, totalMoney);
+endmodule

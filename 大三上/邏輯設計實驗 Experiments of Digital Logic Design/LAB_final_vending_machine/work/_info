@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\electron\LAB6
+vstimulus
+Z1 !s100 hcH>ok`Nfo`m1?@IJ9hEg1
+Z2 ICPf2ngEn@9bdNYkLmzXC]3
+Z3 Vj_kQ[Pef^WSz:;eABMRPQ3
+Z4 dC:\Users\huang\Desktop\LAB_final
+Z5 w1703528010
+Z6 8C:/Users/huang/Desktop/LAB_final/stimulus.v
+Z7 FC:/Users/huang/Desktop/LAB_final/stimulus.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/LAB_final/stimulus.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1703528036.718000
+Z12 !s107 C:/Users/huang/Desktop/LAB_final/stimulus.v|
+!s101 -O0
+vvending_machine
+!i10b 1
+Z13 !s100 [LWR_@RgTnOUB:7nSL4V[3
+Z14 IN=2GMG@FUA^XioM]3[f4;2
+Z15 V9T9?TUJ:TidKR9<gkFH?90
+R4
+Z16 w1703527809
+Z17 8C:/Users/huang/Desktop/LAB_final/vending_machine.v
+Z18 FC:/Users/huang/Desktop/LAB_final/vending_machine.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1703528036.790000
+!s107 C:/Users/huang/Desktop/LAB_final/vending_machine.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/LAB_final/vending_machine.v|
+!s101 -O0
+R10
