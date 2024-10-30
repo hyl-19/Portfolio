@@ -1,0 +1,13 @@
+設計說明:
+
+建立一個抽象的class叫BeverageMaker，讓CoffeeMaker和TeaMaker這兩個實體類別去實作他。
+
+因為boilWater()和pourInCup()，和addICE()這三種方法是共同的，可以在BeverageMaker完成，
+之後繼承的類別可以直接使用，addICE()先讓他不做任何事，給新的類別override看他要怎麼使
+用都可以。
+
+剩下的brew()和addCondiments()因為方法煮法和添加東西不同，但是很類似，用abstract的方法
+去使用，讓繼承BeverageMaker的類別可以客製化的實作它，而且且是強迫要去完成。
+
+在prepare()前面加final，使不管任何一種飲料(類別)要製作時，因為不能override，所以作法的
+順序不會被改變。
