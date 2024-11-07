@@ -8,7 +8,7 @@ This document provides a basic overview of the Simple Mail Transfer Protocol (SM
 
 **traceroute**
 
-The traceroute.py script is designed to perform a network diagnostic operation similar to the Unix traceroute command. Tracerouting is used to determine the route data packets take from the source to a destination, which is useful for following the path that data travels through the internet.
+The traceroute.py script is designed to perform a network diagnostic operation. Tracerouting is used to determine the route data packets take from the source to a destination, which is useful for following the path that data travels through the internet.
 
 
 ## Experiments of Digital Logic Design
