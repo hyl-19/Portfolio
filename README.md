@@ -5,10 +5,10 @@
 This repository contains the projects I have completed during my time at university. Each folder is labeled according to the year and semester of my studies, providing an organized collection of my academic work.
 
 ### The more challenging projects contain
-The more challenging projects contain以下
-Interpreter - [程式語言](./大三下/程式語言 Programming Language)
-Pipeline CPU - [計算機組織](./大二下/計算機組織 Computer Organizatoin)
-Real-Time Sounds Detector - [專題](./專題)
+
+- **Interpreter** - [程式語言](./大三下/程式語言)
+- **Pipeline CPU** - [計算機組織](./大二下/計算機組織)
+- **Real-Time Sounds Detector** - [專題](./專題)
 
 
 
