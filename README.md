@@ -6,8 +6,8 @@ This repository contains the projects I have completed during my time at univers
 
 ### The more challenging projects contain
 
-- **Interpreter** - [程式語言](./大三下/程式語言)
-- **Pipeline CPU** - [計算機組織](./大二下/計算機組織)
+- **Interpreter** - [程式語言](./大三下/程式語言%20Programming%20Language)
+- **Pipeline CPU** - [計算機組織](./大二下/計算機組織%20Computer%20Organization)
 - **Real-Time Sounds Detector** - [專題](./專題)
 
 
