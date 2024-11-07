@@ -6,13 +6,15 @@ This repository contains the projects I have completed during my time at univers
 
 ### The more challenging projects contain
 
-- **Interpreter** - [程式語言](./大三下/程式語言%20Programming%20Language)
-- **Pipeline CPU** - [計算機組織](./大二下/計算機組織%20Computer%20Organization)
 - **Real-Time Sounds Detector** - [專題](./專題)
-
+- **Interpreter** - [Programing Language](./大三下/程式語言%20Programming%20Language)
+- **Pipeline CPU** - [Computer Organization](./大二下/計算機組織%20Computer%20Organization)
+- **DrawJuliaSet** - [Assembly Language](./大二上/大二上/組合語言%20Assembly%20Language%20and%20Embedded%20System)
 
 
 ## Folder Structure
+
+專題: A Progect for graduation--real-time sounds detector  
 
 大一上: Projects from the first semester of the first year  
 大一下: Projects from the second semester of the first year  
@@ -22,7 +24,7 @@ This repository contains the projects I have completed during my time at univers
 大三下: Projects from the second semester of the third year  
 大四上: Projects from the first semester of the fourth year  
 大四下: Projects from the second semester of the fourth year  
-專題: A Progect for graduation--real-time sounds detector  
+
 
 How to Navigate?
 
