@@ -14,19 +14,19 @@ This repository contains the projects I have completed during my time at univers
 
 ## Folder Structure
 
-大一上: Projects from the first semester of the first year
-大一下: Projects from the second semester of the first year
-大二上: Projects from the first semester of the second year
-大二下: Projects from the second semester of the second year
-大三上: Projects from the first semester of the third year
-大三下: Projects from the second semester of the third year
-大四上: Projects from the first semester of the fourth year
-大四下: Projects from the second semester of the fourth year
-專題: A Progect for graduation--real-time sounds detector
+大一上: Projects from the first semester of the first year  
+大一下: Projects from the second semester of the first year  
+大二上: Projects from the first semester of the second year  
+大二下: Projects from the second semester of the second year  
+大三上: Projects from the first semester of the third year  
+大三下: Projects from the second semester of the third year  
+大四上: Projects from the first semester of the fourth year  
+大四下: Projects from the second semester of the fourth year  
+專題: A Progect for graduation--real-time sounds detector  
 
-How to Navigate
+How to Navigate?
 
-Each folder contains projects or assignments completed during that specific semester. You can browse through the folders to see the different types of work I have      undertaken, which includes coursework, assignments, and projects in various subjects.
+Each folder contains projects or assignments completed during that specific semester. You can browse through the folders to see the different types of work I have undertaken, which includes coursework, assignments, and projects in various subjects.
 
 ## License
 
@@ -73,9 +73,9 @@ README 更新: 新增了資料夾的詳細說明，方便您更好地瀏覽我�
 
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+MIT License
 
 Contact
 
-If you have any questions about my work, feel free to reach out via GitHub or email.
+If you have any questions about my work, feel free to reach out via GitHub.
 
