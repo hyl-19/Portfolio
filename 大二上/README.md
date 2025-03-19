@@ -6,7 +6,7 @@ Implementation of Various Types of Data Structures
 
 ## 工程數學 Engineering Mathematics
 
-### [Create_music.py](Portfolio/大二上/工程數學%20Engineering%20Mathematic/Create_music.py):
+### [Create_music.py](大二上/工程數學%20Engineering%20Mathematic/Create_music.py):
 使用Python產生一個.wav聲音檔案，方法是將不同頻率的純音訊號依序組合寫入，最終生成一段旋律。它先設定聲音振幅與每個音的頻率，然後以正弦波的方式產生聲音數據，逐一寫入.wav檔案中，最後儲存成 11027222.wav，可以用來播放確認結果。
 
 ### double_pendulum.py:
