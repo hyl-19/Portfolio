@@ -47,8 +47,8 @@ A lightweight, low-power real-time sound classification system combining LAION-A
 
 ## Datasets & Models
 
-UrbanSound8K, ESC-50, FSD50K
-LAION-AI CLAP: Contrastive Language-Audio Pretraining
+- UrbanSound8K, ESC-50, FSD50K
+- LAION-AI CLAP: Contrastive Language-Audio Pretraining
 
 
 
