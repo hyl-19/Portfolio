@@ -1,0 +1,471 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\huang\Desktop\Final _Project_NO.17
+vadd32
+Z1 IJ<U`Q0=>Aa0BbWBmo;D8d0
+Z2 VU=ZXz5UM7[GT`X^NWc0cQ1
+Z3 dC:\Users\huang\Desktop\Final _Project_NO.17
+Z4 w1685907266
+Z5 8C:/Users/huang/Desktop/Final _Project_NO.17/add32.v
+Z6 FC:/Users/huang/Desktop/Final _Project_NO.17/add32.v
+L0 5
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 YgbF?EVbe7?GH<]LUa7VE1
+Z10 !s108 1686125572.274000
+Z11 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/add32.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/add32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z13 I8kSC_2ii:TfMS]5n>7Y=X1
+Z14 V_D8eN:nm?jefDdj4O`CmC3
+R3
+Z15 w1685978382
+Z16 8C:/Users/huang/Desktop/Final _Project_NO.17/ALU.v
+Z17 FC:/Users/huang/Desktop/Final _Project_NO.17/ALU.v
+L0 2
+R7
+r1
+31
+R8
+Z18 n@a@l@u
+Z19 !s100 ^Rj;]9YNb>l:`:ROZYa`n0
+Z20 !s108 1686125572.329000
+Z21 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/ALU.v|
+Z22 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu_ctl
+Z23 IU;^nGAVjoR7h3zGzY<BVS3
+Z24 VJ>G6kKCzlUPY7J7V=JZEP0
+R3
+Z25 w1685973592
+Z26 8C:/Users/huang/Desktop/Final _Project_NO.17/alu_ctl.v
+Z27 FC:/Users/huang/Desktop/Final _Project_NO.17/alu_ctl.v
+L0 11
+R7
+r1
+31
+R8
+Z28 !s100 ?INFND3X9]BR``:hmlPEI0
+Z29 !s108 1686125572.386000
+Z30 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/alu_ctl.v|
+Z31 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/alu_ctl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vb1_ALU
+Z32 IDRlFBoZASRN=P`nO4Zz[i3
+Z33 Ve`JlHz:L8EiTD=3h0MgB13
+R3
+Z34 w1685733182
+Z35 8C:/Users/huang/Desktop/Final _Project_NO.17/b1_ALU.v
+Z36 FC:/Users/huang/Desktop/Final _Project_NO.17/b1_ALU.v
+L0 3
+R7
+r1
+31
+R8
+Z37 nb1_@a@l@u
+Z38 !s100 QdXf1d9=6RkI_ZlX:@4Y<2
+Z39 !s108 1686125572.443000
+Z40 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/b1_ALU.v|
+Z41 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/b1_ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vbranch_equ
+Z42 I1FXOmJF0RHG3lf`eYBZm<0
+Z43 VQ42Z6H_@=Sn<RMN1aC5<Z2
+R3
+Z44 w1686055839
+Z45 8C:/Users/huang/Desktop/Final _Project_NO.17/branch_equ.v
+Z46 FC:/Users/huang/Desktop/Final _Project_NO.17/branch_equ.v
+L0 2
+R7
+r1
+31
+R8
+Z47 !s100 ^8h1;dAkl]_nCgV^K4PSY1
+Z48 !s108 1686125572.493000
+Z49 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/branch_equ.v|
+Z50 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/branch_equ.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol_pipelined
+Z51 I<2_NmDfF7]zFFhzAVc=z:2
+Z52 V]18Td4X0Ja2@hnen@;]3b2
+R3
+Z53 w1685974862
+Z54 8C:/Users/huang/Desktop/Final _Project_NO.17/control_pipelined.v
+Z55 FC:/Users/huang/Desktop/Final _Project_NO.17/control_pipelined.v
+L0 17
+R7
+r1
+31
+R8
+Z56 !s100 ^jTgF1;z@gBhZVOSP@;mI3
+Z57 !s108 1686125572.546000
+Z58 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/control_pipelined.v|
+Z59 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/control_pipelined.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEX_MEM
+Z60 I?cKJ2FKR:;kRLj5JK[PRH1
+Z61 VM^[3e60o1egE]3b8o@WQG0
+R3
+Z62 w1685659058
+Z63 8C:/Users/huang/Desktop/Final _Project_NO.17/EX_MEM.v
+Z64 FC:/Users/huang/Desktop/Final _Project_NO.17/EX_MEM.v
+L0 2
+R7
+r1
+31
+R8
+Z65 n@e@x_@m@e@m
+Z66 !s100 4F@<><jD>6n=_^aR:JECl0
+Z67 !s108 1686125572.598000
+Z68 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/EX_MEM.v|
+Z69 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/EX_MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFA
+Z70 IMCd5k@PdQdeif4M55Ol=[2
+Z71 VY5j2^gTTX5VL9kj@olPz?2
+R3
+Z72 w1685972854
+Z73 8C:/Users/huang/Desktop/Final _Project_NO.17/FA.v
+Z74 FC:/Users/huang/Desktop/Final _Project_NO.17/FA.v
+L0 1
+R7
+r1
+31
+R8
+n@f@a
+Z75 !s100 d`iHzn=MCTgNZF0hA@KcD0
+Z76 !s108 1686125572.651000
+Z77 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/FA.v|
+Z78 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/FA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHiLo
+Z79 I0e=^Q^9bIIb>[];bbQ2^P3
+Z80 V:WmNAd@h0[ndc77V<iVgd2
+R3
+Z81 w1685972842
+Z82 8C:/Users/huang/Desktop/Final _Project_NO.17/HiLo.v
+Z83 FC:/Users/huang/Desktop/Final _Project_NO.17/HiLo.v
+L0 2
+R7
+r1
+31
+R8
+Z84 n@hi@lo
+Z85 !s100 DkZ31Yi?:XW5KV9kWH0CC3
+Z86 !s108 1686125572.704000
+Z87 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/HiLo.v|
+Z88 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/HiLo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID_EX
+Z89 IVX?1XGD3zMJEmFd5^PH[W2
+Z90 Vc9F]RU5k_KTWF>@:XAWN[3
+R3
+Z91 w1685655590
+Z92 8C:/Users/huang/Desktop/Final _Project_NO.17/ID_EX.v
+Z93 FC:/Users/huang/Desktop/Final _Project_NO.17/ID_EX.v
+L0 2
+R7
+r1
+31
+R8
+Z94 n@i@d_@e@x
+Z95 !s100 Nl7]]Y76SNB7Y6;;gTO=L3
+Z96 !s108 1686125572.761000
+Z97 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/ID_EX.v|
+Z98 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/ID_EX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF_ID
+Z99 IPjWge4oZ1Ka_S6ogj<>A^0
+Z100 VHdoEShilbeLN2X[^0:Z0i2
+R3
+Z101 w1685654286
+Z102 8C:/Users/huang/Desktop/Final _Project_NO.17/IF_ID.v
+Z103 FC:/Users/huang/Desktop/Final _Project_NO.17/IF_ID.v
+L0 1
+R7
+r1
+31
+R8
+Z104 n@i@f_@i@d
+Z105 !s100 6XKA5UOY_=YBa:6MO9X;>1
+Z106 !s108 1686125572.812000
+Z107 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/IF_ID.v|
+Z108 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/IF_ID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM_WB
+Z109 IeIz3kX91Ra[PU4o?QlM=R1
+Z110 VzVjB[C0O[R:l7cjDmWNa>3
+R3
+Z111 w1685658362
+Z112 8C:/Users/huang/Desktop/Final _Project_NO.17/MEM_WB.v
+Z113 FC:/Users/huang/Desktop/Final _Project_NO.17/MEM_WB.v
+L0 2
+R7
+r1
+31
+R8
+Z114 n@m@e@m_@w@b
+Z115 !s100 iT1j3RbRj36[_Hd=W34922
+Z116 !s108 1686125572.864000
+Z117 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/MEM_WB.v|
+Z118 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/MEM_WB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmemory
+Z119 IkP7`0X=Q5^[gFMIbb0P0_1
+Z120 VSPBB>2d4PV07m82El[]@^0
+R3
+Z121 w1685972862
+Z122 8C:/Users/huang/Desktop/Final _Project_NO.17/memory.v
+Z123 FC:/Users/huang/Desktop/Final _Project_NO.17/memory.v
+L0 14
+R7
+r1
+31
+R8
+Z124 !s100 7ZIcHO]QRC1i1I<gI03dg3
+Z125 !s108 1686125572.917000
+Z126 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/memory.v|
+Z127 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmips_pipelined
+Z128 IjSO3mDRh:bX2AoLWKR`2e2
+Z129 V`8GQeM@20zcFMdL;BTTL33
+R3
+Z130 w1686060873
+Z131 8C:/Users/huang/Desktop/Final _Project_NO.17/mips_pipelined.v
+Z132 FC:/Users/huang/Desktop/Final _Project_NO.17/mips_pipelined.v
+L0 5
+R7
+r1
+31
+R8
+Z133 !s100 H?:gTYaP_AaCZ8^oVaa3^1
+Z134 !s108 1686125572.978000
+Z135 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/mips_pipelined.v|
+Z136 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/mips_pipelined.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmsb_alu
+Z137 I7T6[c4f0Oof1:g^Bk6nn^1
+Z138 VoBCYB]1<GOhKF]PAlPmMN2
+R3
+Z139 w1685733514
+Z140 8C:/Users/huang/Desktop/Final _Project_NO.17/msb_alu.v
+Z141 FC:/Users/huang/Desktop/Final _Project_NO.17/msb_alu.v
+L0 4
+R7
+r1
+31
+R8
+Z142 !s100 PFAGfhf7GYJBDS>6b]@P:3
+Z143 !s108 1686125573.041000
+Z144 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/msb_alu.v|
+Z145 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/msb_alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier
+Z146 Ij@bl0gZCRHnn_1DOoffOe2
+Z147 VX?n8]=Km9Q79@O5`GdgHd3
+R3
+Z148 w1685972840
+Z149 8C:/Users/huang/Desktop/Final _Project_NO.17/multiplier.v
+Z150 FC:/Users/huang/Desktop/Final _Project_NO.17/multiplier.v
+L0 1
+R7
+r1
+31
+R8
+Z151 !s100 MS_1Y5hfRMY]7C2_i`ahW1
+Z152 !s108 1686125573.092000
+Z153 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/multiplier.v|
+Z154 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2
+Z155 InJLMTTbUT2W7g7B?g9HE21
+Z156 Vj@f`a>EYID42B4HRj1CP`1
+R3
+Z157 w1685972864
+Z158 8C:/Users/huang/Desktop/Final _Project_NO.17/mux2.v
+Z159 FC:/Users/huang/Desktop/Final _Project_NO.17/mux2.v
+L0 5
+R7
+r1
+31
+R8
+Z160 !s100 gN>ZB;2EnTTNc_CEY;?0=3
+Z161 !s108 1686125573.148000
+Z162 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/mux2.v|
+Z163 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/mux2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2X1
+Z164 IQbL:DU_bQ9coS8enZ?3QR1
+Z165 VmRGL6:h?10E28ik@_4:9M0
+R3
+Z166 w1685807178
+Z167 8C:/Users/huang/Desktop/Final _Project_NO.17/2to1MUX.v
+Z168 FC:/Users/huang/Desktop/Final _Project_NO.17/2to1MUX.v
+L0 1
+R7
+r1
+31
+R8
+Z169 nmux2@x1
+Z170 !s100 JnLYQRmhS3RBTR8iQ3=fo1
+Z171 !s108 1686125572.226000
+Z172 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/2to1MUX.v|
+Z173 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/2to1MUX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux3
+Z174 IX2eRW>oon@<OzNL`HcMUm0
+Z175 V9IiF:e@h;J_NEN;LB?57_0
+R3
+Z176 w1685808554
+Z177 8C:/Users/huang/Desktop/Final _Project_NO.17/mux3.v
+Z178 FC:/Users/huang/Desktop/Final _Project_NO.17/mux3.v
+L0 2
+R7
+r1
+31
+R8
+Z179 !s100 [i4YDXg27BejLYGdAkSJg0
+Z180 !s108 1686125573.207000
+Z181 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/mux3.v|
+Z182 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/mux3.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreg32
+Z183 IeEi07A=nfn<ngofQd^4i`0
+Z184 V4bcQWEI[Z8fXRzc;L8:=h0
+R3
+Z185 w1685907376
+Z186 8C:/Users/huang/Desktop/Final _Project_NO.17/reg32.v
+Z187 FC:/Users/huang/Desktop/Final _Project_NO.17/reg32.v
+L0 13
+R7
+r1
+31
+R8
+Z188 !s100 egnEmenQQ6DLGDhK=A_AU3
+Z189 !s108 1686125573.329000
+Z190 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/reg32.v|
+Z191 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/reg32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreg_file
+Z192 IEYI2a=z95bdFdS;i4>DhL1
+Z193 VYLAOAi5U8OG?Ke_4jenLM0
+R3
+Z194 w1685972866
+Z195 8C:/Users/huang/Desktop/Final _Project_NO.17/reg_file.v
+Z196 FC:/Users/huang/Desktop/Final _Project_NO.17/reg_file.v
+L0 17
+R7
+r1
+31
+R8
+Z197 !s100 z7e9D5A3JHQ]GPiSZ=1S80
+Z198 !s108 1686125573.278000
+Z199 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/reg_file.v|
+Z200 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/reg_file.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShifter
+Z201 IQinlF0<Z2`CXODFQ5aU2^0
+Z202 VY]MBjz;01V1;10jnPD4Kn1
+R3
+Z203 w1685729648
+Z204 8C:/Users/huang/Desktop/Final _Project_NO.17/Shifter.v
+Z205 FC:/Users/huang/Desktop/Final _Project_NO.17/Shifter.v
+L0 2
+R7
+r1
+31
+R8
+Z206 n@shifter
+Z207 !s100 2MM>A3_I7^6`<e?Y?j=IA3
+Z208 !s108 1686125573.388000
+Z209 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/Shifter.v|
+Z210 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/Shifter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsign_extend
+Z211 IO`h=Hz78FGS^?3=K>LQ0G0
+Z212 V`GDmKXOJDMjdDF]CUKP5I0
+R3
+Z213 w1686063174
+Z214 8C:/Users/huang/Desktop/Final _Project_NO.17/sign extend.v
+Z215 FC:/Users/huang/Desktop/Final _Project_NO.17/sign extend.v
+L0 10
+R7
+r1
+31
+R8
+!i10b 1
+Z216 !s100 1f`ZX6b64FEOnK]d3T:aM3
+!s85 0
+Z217 !s108 1686125573.450000
+Z218 !s107 C:/Users/huang/Desktop/Final _Project_NO.17/sign extend.v|
+Z219 !s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/sign extend.v|
+!s101 -O0
+vtb_pipelined
+!i10b 1
+!s100 :VCDke:@CaCjAfS`L>DS83
+I5H?Jij8K5cdeAi?BHJ^?N2
+VD9ZZMBlf@:G1KBf54eFTK1
+R3
+w1686061109
+8C:/Users/huang/Desktop/Final _Project_NO.17/tb_pipelined.v
+FC:/Users/huang/Desktop/Final _Project_NO.17/tb_pipelined.v
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1686125573.498000
+!s107 C:/Users/huang/Desktop/Final _Project_NO.17/tb_pipelined.v|
+!s90 -reportprogress|300|-work|work|C:/Users/huang/Desktop/Final _Project_NO.17/tb_pipelined.v|
+!s101 -O0
+R8

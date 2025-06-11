@@ -27,7 +27,7 @@ This repository contains the projects I have completed during my time at univers
 **大四上**: Projects from the first semester of the fourth year  
 **大四下**: Projects from the second semester of the fourth year  
   
-  aaa
+
 ### How to Navigate?
 
 Each folder contains projects or assignments completed during that specific semester. You can browse through the folders to see the different types of work I have undertaken, which includes coursework, assignments, and projects in various subjects.
