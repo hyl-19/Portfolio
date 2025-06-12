@@ -10,15 +10,8 @@ A Retrieval-Augmented Generation (RAG)–powered PDF Q&A system running on AWS. 
 - [Architecture](#architecture)  
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
-- [Getting Started](#getting-started)  
-  - [Prerequisites](#prerequisites)  
-  - [Local Development](#local-development)  
+- [Getting Started](#getting-started)   
 - [AWS Infrastructure Setup](#aws-infrastructure-setup)  
-  - [1. Create DynamoDB Table](#1-create-dynamodb-table)  
-  - [2. Create S3 Bucket](#2-create-s3-bucket)  
-- [Deploy to EC2](#deploy-to-ec2)  
-  - [Install & Configure](#install--configure)  
-  - [Systemd Service](#systemd-service)  
 - [Usage](#usage)  
 - [References](#references)
 
@@ -38,7 +31,7 @@ Users upload a PDF → text is extracted to S3 & DynamoDB → user questions tri
 
 ## Architecture
 
-![System Architecture](Architecture.png)
+![System Architecture](architecture.png)
 
 1. **ELB** receives user HTTP requests and forwards to EC2 Auto Scaling group  
 2. **EC2 instances** handle:
