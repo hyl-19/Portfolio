@@ -33,8 +33,8 @@ A lightweight, low-power real-time sound classification system combining LAION-A
   - Raspberry Pi 4: 60.3 %
 
 - **Fixed Window vs. Window-Stride**
-  - Fixed window (4 s): 77.8 %
-  - Window-stride (4 s window, 3 s stride): 83.4 %
+  - Fixed window : 77.8 %
+  - Window-stride : 83.4 %
 
 - **Performance**
   - PC processing time: ~0.5 s/audio clip
