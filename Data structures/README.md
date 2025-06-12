@@ -139,7 +139,7 @@ Tasks include:
 
 Measure execution time of each sort and record results in `sort_time.txt`.
 
-### Solution: DS1101ex5\_07\_11027212\_11027222.cpp
+### Solution: sorting.cpp
 
 Key features:
 
