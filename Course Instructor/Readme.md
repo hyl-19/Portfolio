@@ -11,7 +11,7 @@ A Retrieval-Augmented Generation (RAG)–powered PDF Q&A system running on AWS. 
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
 - [Getting Started](#getting-started)  
-
+ 
 ---
 
 ## Project Overview
