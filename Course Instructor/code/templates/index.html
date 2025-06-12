@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PDF Course Instructor</title>
+  <!-- 引入自己的 CSS -->
+  <link
+    rel="stylesheet"
+    href="{{ url_for('static', filename='styles.css') }}"
+  />
+</head>
+<body>
+  <h1>PDF Course Instructor</h1>
+
+  <div class="section">
+    <h2>1. Upload PDF</h2>
+    <form id="up" enctype="multipart/form-data">
+      <input type="file" name="pdf" accept="application/pdf" />
+      <br />
+      <button type="submit">Upload</button>
+    </form>
+    <pre id="upmsg"></pre>
+  </div>
+
+  <div class="section">
+    <h2>2. Processing Status</h2>
+    <div id="processing"></div>
+  </div>
+
+  <div class="section">
+    <h2>3. Q&amp;A</h2>
+    <textarea id="question" placeholder="Enter your question…"></textarea>
+    <br />
+    <button id="ask">Submit Question</button>
+    <pre id="answer"></pre>
+  </div>
+
+  <!-- 引入自己的 JS -->
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
