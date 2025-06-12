@@ -82,9 +82,9 @@ Folder `3_Linked List` covers infix/postfix/prefix conversion and evaluation of 
 
 ### Mission Specifications
 
-* **m1檢查錯誤.pdf**: Validate infix expression syntax (characters, parentheses, operator count). fileciteturn4file2
-* **m2InfixtoPostfix.pdf**: Convert valid infix expressions to postfix notation. fileciteturn4file3
-* **m3計算後序式.pdf**: Evaluate postfix expressions and handle division-by-zero errors. fileciteturn4file4
+* **m1檢查錯誤.pdf**: Validate infix expression syntax (characters, parentheses, operator count).
+* **m2InfixtoPostfix.pdf**: Convert valid infix expressions to postfix notation. 
+* **m3計算後序式.pdf**: Evaluate postfix expressions and handle division-by-zero errors. 
 
 Refer to the PDF files in `3_Linked List` for detailed requirements and examples.
 
