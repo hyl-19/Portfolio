@@ -101,3 +101,4 @@ Below is our final pipelined CPU datapath, covering instruction fetch, decode, e
 - All instruction behaviors verified in ModelSim.
 - Waveform results matched expected register/memory updates.
 - Pipeline registers confirmed correct data propagation.
+
