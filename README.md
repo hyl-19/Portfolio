@@ -1,4 +1,9 @@
-# Portfolio 作品集
+# 🎓 Academic Portfolio – hyl-19
+
+Welcome to my personal academic portfolio repository. This collection showcases coursework and hands-on projects across multiple computer science subjects.
+
+🔗 GitHub Link: [https://github.com/hyl-19/Portfolio](https://github.com/hyl-19/Portfolio)
+
 
 ## About
 
@@ -14,23 +19,49 @@ aaa
 - **DrawJuliaSet** - [Assembly Language](./大二上/組合語言%20Assembly%20Language%20and%20Embedded%20System)
 
 
-## Folder Structure
+### 📁 Repository Structure
 
-**專題**: A Progect for graduation--real-time sounds detector  
+| Folder | Description |
+|--------|-------------|
+| `Analysis of Algorithms` | Assignments and experiments related to time complexity, recurrence relations, and algorithmic design. |
+| `Assembly Language and Embedded Systems` | Projects using ARM assembly, including drawing Julia sets and system integration. |
+| `Computer Organization` | Digital logic modules, ALU, datapath designs, pipelined CPU architecture (with reports and ModelSim simulation files). |
+| `Course Instructor` | Documents for teaching or assisting roles (if any), such as instructions or assignment templates. |
+| `Data Structures and Algorithms` | Foundational work with recursion, sorting, trees, graphs, and complexity analysis. |
+| `Data structures` | Extended or experimental data structure implementations (linked lists, stacks, custom trees, etc.). |
+| `Graduation Project` | Capstone project and research-based development related to your field of study. |
+| `Object Oriented Programming` | Java-based design pattern implementations (e.g., Template, Decorator, Command), complete with UML and testing. |
+| `Operating Systems` | Simulations for CPU scheduling, page replacement, and multi-process/thread sorting strategies in C++ and Python. |
+| `Programming Language` | Parser designs, interpreters, or other language-theory-related assignments. |
 
-**大一上**: Projects from the first semester of the first year  
-**大一下**: Projects from the second semester of the first year  
-**大二上**: Projects from the first semester of the second year  
-**大二下**: Projects from the second semester of the second year  
-**大三上**: Projects from the first semester of the third year  
-**大三下**: Projects from the second semester of the third year  
-**大四上**: Projects from the first semester of the fourth year  
-**大四下**: Projects from the second semester of the fourth year  
+---
+
+## 🛠️ Technologies Used
+
+- **Languages**: C++, Java, Python, ARM Assembly
+- **Tools**: ModelSim, VS Code, G++/GCC, Python3, Git
+- **Patterns**: Decorator, Command, Template Method
+- **Concepts**: Scheduling, Paging, Sorting, Datapath/ALU, Recursion, Inheritance, Concurrency
+
+---
   
 
 ### How to Navigate?
 
 Each folder contains projects or assignments completed during that specific semester. You can browse through the folders to see the different types of work I have undertaken, which includes coursework, assignments, and projects in various subjects.
+
+## 🧑‍💻 Author
+
+**Yen-Lin Huang**   
+📧 [GitHub Profile](https://github.com/hyl-19)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License — see the `LICENSE` file for details.
+
+---
 
 ## Contact
 
