@@ -10,8 +10,7 @@ This final project implements a pipelined CPU datapath with five major stages. W
 
 Below is our final pipelined CPU datapath, covering instruction fetch, decode, execute, memory, and write-back stages:
 
-![Datapath Diagram](./Computer%20Organization/Single-Cycle_Pipeline_CPU/datapath.png)
-
+![Datapath Diagram](./Computer%20Organization/Single-Cycle_Pipeline_CPU/Pipeline%20CPU/datapath.png)
 
 ---
 
