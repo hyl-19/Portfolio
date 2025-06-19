@@ -18,8 +18,8 @@ An implementation of the **OurC** interpreter, which supports parsing, checking,
 
 
 
-| Folder | Description |
-|--------|-------------|
+| Folder        | Description |
+|---------------|-------------|
 | 🌟[`Graduation Project`](./Graduation%20Project) | A lightweight, low-power real-time sound classification system. |
 | 🌟[`Programming Language`](./Programming%20Language) | An implementation of the **OurC** interpreter, which supports parsing, checking, and executing a C-like language defined by the *OurC Grammar*. |
 | 🌟[`Course Instructor`](./Course%20Instructor) | A Retrieval-Augmented Generation (RAG)–powered PDF Q&A system running on AWS. |
