@@ -7,34 +7,25 @@ Welcome to my personal academic portfolio repository. This collection showcases 
 
 ## About
 
-This repository contains the projects I have completed during my time at university(CYCU). Each folder is labeled according to the year and semester of my studies, providing an organized collection of my academic work.
+This repository contains the projects I have completed during my time at university. Each folder is labeled according to my studies.
 
 - More detailed updates are currently in progress!
-
-### The more challenging projects contain
-aaa
-- **Real-Time Sounds Detector** - [專題](./專題)
-- **Interpreter** - [Programing Language](./大三下/程式語言%20Programming%20Language)
-- **Pipeline CPU** - [Computer Organization](./大二下/計算機組織%20Computer%20Organization)
-- **DrawJuliaSet** - [Assembly Language](./大二上/組合語言%20Assembly%20Language%20and%20Embedded%20System)
-
 
 ### 📁 Repository Structure
 
 | Folder | Description |
 |--------|-------------|
-| `Analysis of Algorithms` | Assignments and experiments related to time complexity, recurrence relations, and algorithmic design. |
-| `Assembly Language and Embedded Systems` | Projects using ARM assembly, including drawing Julia sets and system integration. |
-| `Computer Organization` | Digital logic modules, ALU, datapath designs, pipelined CPU architecture (with reports and ModelSim simulation files). |
-| `Course Instructor` | Documents for teaching or assisting roles (if any), such as instructions or assignment templates. |
-| `Data Structures and Algorithms` | Foundational work with recursion, sorting, trees, graphs, and complexity analysis. |
-| `Data structures` | Extended or experimental data structure implementations (linked lists, stacks, custom trees, etc.). |
-| `Graduation Project` | Capstone project and research-based development related to your field of study. |
-| `Object Oriented Programming` | Java-based design pattern implementations (e.g., Template, Decorator, Command), complete with UML and testing. |
-| `Operating Systems` | Simulations for CPU scheduling, page replacement, and multi-process/thread sorting strategies in C++ and Python. |
-| `Programming Language` | Parser designs, interpreters, or other language-theory-related assignments. |
+| [`Analysis of Algorithms`](./Analysis%20of%20Algorithms) | Assignments and experiments related to time complexity, recurrence relations, and algorithmic design. |
+| [`Assembly Language and Embedded Systems`](./Assembly%20Language%20and%20Embedded%20Systems) | Projects using ARM assembly, including drawing Julia sets and system integration. |
+| [`Computer Organization`](./Computer%20Organization) | Digital logic modules, ALU, datapath designs, pipelined CPU architecture (with reports and ModelSim simulation files). |
+| [`Course Instructor`](./Course%20Instructor) | Documents for teaching or assisting roles (if any), such as instructions or assignment templates. |
+| [`Data Structures and Algorithms`](./Data%20Structures%20and%20Algorithms) | Foundational work with recursion, sorting, trees, graphs, and complexity analysis. |
+| [`Data structures`](./Data%20structures) | Extended or experimental data structure implementations (linked lists, stacks, custom trees, etc.). |
+| [`Graduation Project`](./Graduation%20Project) | Capstone project and research-based development related to your field of study. |
+| [`Object Oriented Programming`](./Object%20Oriented%20Programming) | Java-based design pattern implementations (e.g., Template, Decorator, Command), complete with UML and testing. |
+| [`Operating Systems`](./Operating%20Systems) | Simulations for CPU scheduling, page replacement, and multi-process/thread sorting strategies in C++ and Python. |
+| [`Programming Language`](./Programming%20Language) | Parser designs, interpreters, or other language-theory-related assignments. |
 
----
 
 ## 🛠️ Technologies Used
 
