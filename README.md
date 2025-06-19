@@ -21,8 +21,7 @@ An implementation of the **OurC** interpreter, which supports parsing, checking,
 | Folder | Description |
 |--------|-------------|
 | [`Graduation Project`](./Graduation%20Project) | A lightweight, low-power real-time sound classification system. |
-| [`Programming Language`](./Programming%20Language) | An implementation of the **OurC** interpreter, which supports parsing, checking, and executing a C-like language defined by the *OurC Grammar*.
- |
+| [`Programming Language`](./Programming%20Language) | An implementation of the **OurC** interpreter, which supports parsing, checking, and executing a C-like language defined by the *OurC Grammar*. |
 | [`Course Instructor`](./Course%20Instructor) | A Retrieval-Augmented Generation (RAG)–powered PDF Q&A system running on AWS. |
 | [`Computer Organization`](./Computer%20Organization) | A pipelined CPU datapath with five major stages. |
 | [`Assembly Language and Embedded Systems`](./Assembly%20Language%20and%20Embedded%20Systems) | Projects using ARM assembly, implementing draw Julia sets. |
