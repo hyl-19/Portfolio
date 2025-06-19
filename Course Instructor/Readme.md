@@ -4,16 +4,6 @@ A Retrieval-Augmented Generation (RAG)–powered PDF Q&A system running on AWS. 
 
 ---
 
-## Table of Contents
-
-- [Project Overview](#project-overview)  
-- [Architecture](#architecture)  
-- [Features](#features)  
-- [Tech Stack](#tech-stack)  
-- [Getting Started](#getting-started)  
- 
----
-
 ## Project Overview
 
 Modern LLMs can hallucinate or lack domain knowledge. This project mitigates that by:
@@ -22,7 +12,9 @@ Modern LLMs can hallucinate or lack domain knowledge. This project mitigates tha
 3. **Retrieving** relevant chunks at query time  
 4. **Augmenting** prompts to OpenAI API for precise answers  
 
-Users upload a PDF → text is extracted to S3 & DynamoDB → user questions trigger a RAG workflow → answer returned.
+### Workflow
+
+- Users upload a PDF → text is extracted to S3 & DynamoDB → user questions trigger a RAG workflow → answer returned.
 
 ---
 
@@ -38,6 +30,7 @@ Users upload a PDF → text is extracted to S3 & DynamoDB → user questions tri
 3. **DynamoDB** stores text chunks and vectors for fast retrieval  
 4. **S3** stores original PDF files  
 5. **ELB + Auto Scaling** provide load balancing and autoscaling
+6. **ChatGPT API** response answer
 
 ---
 

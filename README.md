@@ -15,16 +15,16 @@ This repository contains the projects I have completed during my time at univers
 
 | Folder | Description |
 |--------|-------------|
-| [`Analysis of Algorithms`](./Analysis%20of%20Algorithms) | Assignments and experiments related to time complexity, recurrence relations, and algorithmic design. |
-| [`Assembly Language and Embedded Systems`](./Assembly%20Language%20and%20Embedded%20Systems) | Projects using ARM assembly, including drawing Julia sets and system integration. |
-| [`Computer Organization`](./Computer%20Organization) | Digital logic modules, ALU, datapath designs, pipelined CPU architecture (with reports and ModelSim simulation files). |
+| [`Graduation Project`](./Graduation%20Project) | Capstone project and research-based development related to your field of study. |
+| [`Programming Language`](./Programming%20Language) | Parser designs, interpreters, or other language-theory-related assignments. |
 | [`Course Instructor`](./Course%20Instructor) | Documents for teaching or assisting roles (if any), such as instructions or assignment templates. |
+| [`Computer Organization`](./Computer%20Organization) | Digital logic modules, ALU, datapath designs, pipelined CPU architecture (with reports and ModelSim simulation files). |
+| [`Assembly Language and Embedded Systems`](./Assembly%20Language%20and%20Embedded%20Systems) | Projects using ARM assembly, including drawing Julia sets and system integration. |
+| [`Operating Systems`](./Operating%20Systems) | Simulations for CPU scheduling, page replacement, and multi-process/thread sorting strategies in C++ and Python. |
+| [`Analysis of Algorithms`](./Analysis%20of%20Algorithms) | Assignments and experiments related to time complexity, recurrence relations, and algorithmic design. |
 | [`Data Structures and Algorithms`](./Data%20Structures%20and%20Algorithms) | Foundational work with recursion, sorting, trees, graphs, and complexity analysis. |
 | [`Data structures`](./Data%20structures) | Extended or experimental data structure implementations (linked lists, stacks, custom trees, etc.). |
-| [`Graduation Project`](./Graduation%20Project) | Capstone project and research-based development related to your field of study. |
 | [`Object Oriented Programming`](./Object%20Oriented%20Programming) | Java-based design pattern implementations (e.g., Template, Decorator, Command), complete with UML and testing. |
-| [`Operating Systems`](./Operating%20Systems) | Simulations for CPU scheduling, page replacement, and multi-process/thread sorting strategies in C++ and Python. |
-| [`Programming Language`](./Programming%20Language) | Parser designs, interpreters, or other language-theory-related assignments. |
 
 
 ## 🛠️ Technologies Used

@@ -1,4 +1,4 @@
-# Computer Organization – Final Project
+# Computer Organization
 
 ## 🧠 Project Overview
 
@@ -10,9 +10,8 @@ This final project implements a pipelined CPU datapath with five major stages. W
 
 Below is our final pipelined CPU datapath, covering instruction fetch, decode, execute, memory, and write-back stages:
 
-![Datapath Diagram](./datapath.png)
+![Datapath Diagram](./Computer%20Organization/Single-Cycle_Pipeline_CPU/datapath.png)
 
-> 📝 _Please ensure the file `datapath.png` is uploaded to the GitHub repo for the image to render properly._
 
 ---
 
@@ -48,29 +47,31 @@ Below is our final pipelined CPU datapath, covering instruction fetch, decode, e
 - Logic:
   - Determines whether to write ALU or Memory output back to register.
 
-### ALU
-- **1-bit ALU**：支援 AND、OR、ADD、SUB 等基本運算。
-- **Full Adder**：由 XOR、AND、OR gate 實現。
-- **32-bit ALU**：以 32 個 1-bit ALU 組成，透過 `invert` 控制運算為加法或減法。
-
 ### Multiplier
-- 將 dataA 儲存為 multiplicand，dataB 為 multiplier。
-- 每次循環判斷最低位是否為 1，並執行累加與位移，共進行 32 次運算後輸出乘積。
+- Stores `dataA` as the multiplicand and `dataB` as the multiplier.
+- In each cycle, checks whether the least significant bit is 1, performs accumulation and shifting.
+- Executes this for 32 iterations and outputs the final product.
 
 ### Shifter
-- 使用五層 Barrel Shifter，每層根據位移量使用 2x1 MUX 控制，共需 160 個 MUX。
+- Implements a 5-stage Barrel Shifter.
+- Each stage uses 2x1 MUXes based on the shift amount.
+- A total of 160 MUXes are used.
 
-### HiLo 暫存器
-- 接收乘法器輸出結果的 64-bit 數值，將高 32 位輸出至 HiOut，低 32 位輸出至 LoOut。
+### HiLo Register
+- Receives the 64-bit result from the multiplier.
+- Outputs the upper 32 bits to `HiOut`, and the lower 32 bits to `LoOut`.
 
 ### MUX
-- 以三元運算子實現，根據控制訊號選擇輸出來源。
+- Implemented using a ternary operator.
+- Selects the output based on the control signal.
 
 ### ALU Control
-- 根據指令選擇運算模組（如 ALU、乘法器、Shifter 等）並產生對應控制訊號。
+- Selects the appropriate operation module (e.g., ALU, Multiplier, Shifter) based on the instruction.
+- Generates corresponding control signals.
 
 ### TestBench
-- 從檔案讀入測資並驗證模組運作是否正確，配合 ModelSim 產出 Waveform。
+- Reads test data from a file to verify the module’s correctness.
+- Works with ModelSim to generate waveform outputs.
 
 ---
 

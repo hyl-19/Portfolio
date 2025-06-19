@@ -1,4 +1,4 @@
-# Assembly and Embedded Systems – Final Project
+# Assembly and Embedded Systems
 
 ## 🎯 Project Goal
 

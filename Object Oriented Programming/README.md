@@ -128,7 +128,7 @@ System.out.println("Total cost: " + drink.getCost());
 
 **Output:**
 ```
-紅茶 + 珍珠 + 糖
+tea + boba + suger
 Total cost: 35
 ```
 

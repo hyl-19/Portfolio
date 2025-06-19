@@ -4,7 +4,7 @@ This document summarizes a collection of algorithmic challenges and their Python
 
 ---
 
-## First Project
+## A-1
 
 1. **Binary Tree Reconstruction & Secret Code**
 
@@ -38,7 +38,7 @@ This document summarizes a collection of algorithmic challenges and their Python
 
 ---
 
-## Second Project
+## A-2
 
 1. **Longest Increasing Subsequence (LIS)**
 
