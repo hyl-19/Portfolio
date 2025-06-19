@@ -29,10 +29,8 @@ This repository contains the projects I have completed during my time at univers
 
 ## 🛠️ Technologies Used
 
-- **Languages**: C++, Java, Python, ARM Assembly
-- **Tools**: ModelSim, VS Code, G++/GCC, Python3, Git
-- **Patterns**: Decorator, Command, Template Method
-- **Concepts**: Scheduling, Paging, Sorting, Datapath/ALU, Recursion, Inheritance, Concurrency
+- **Languages**: C, C++, Python, Java, Verilog, ARM Assembly
+- **Tools**: ModelSim, VS Code, G++/GCC, Git, AWS, Linux
 
 ---
   
