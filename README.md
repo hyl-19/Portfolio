@@ -34,7 +34,7 @@ An implementation of the **OurC** interpreter, which supports parsing, checking,
 
 ## 🛠️ Technologies Used
 
-- **Languages**: C, C++, Python, Java, Verilog, ARM Assembly
+- **Languages**: C, C++, Python, Java, Verilog, ARM Assembly, HTML
 - **Tools**: ModelSim, VS Code, G++/GCC, Git, AWS, Linux
 
 ---
