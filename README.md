@@ -29,7 +29,7 @@ An implementation of the **OurC** interpreter, which supports parsing, checking,
 | 🌟[`Analysis of Algorithms`](./Analysis%20of%20Algorithms) | Assignments and experiments related to time complexity, recurrence relations, and algorithmic design. |
 | 🌟[`Data Structures and Algorithms`](./Data%20Structures%20and%20Algorithms) | Foundational work with recursion, sorting, trees, graphs, and complexity analysis. |
 | 🌟[`Data structures`](./Data%20structures) | Extended or experimental data structure implementations (linked lists, stacks, custom trees, etc.). |
-| 🌟[`Object Oriented Programming`](./Object%20Oriented%20Programming) | Java-based design pattern implementations (e.g., Template, Decorator, Command), complete with UML and testing. |
+| 🌟[`Object Oriented Programming`](./Object%20Oriented%20Programming) | Java-based design pattern implementations (e.g., interface, inheritance, abstraction, polymorphism) |
 
 
 ## 🛠️ Technologies Used
