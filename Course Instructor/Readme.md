@@ -97,25 +97,21 @@ Description=Gunicorn instance to serve PDF Web App
 After=network.target
 
 [Service]
-# 以 ec2-user 身份執行
 User=ec2-user
 
-# 跳到你 Flask 專案所在資料夾
 WorkingDirectory=/home/ec2-user/pdf_web
 
-
-# 保留原本的環境變數
-Environment=S3_BUCKET=pdf-teacher-materials-11027222
+Environment=S3_BUCKET=pdf-teacher-materials-XXXXXXX
 Environment=DDB_TABLE_NAME=PdfTextChunks
 
-# 如果你有用 virtualenv，把下面一行取消註解並改成你的 venv 路徑；若沒用就把它刪>
+# If you’re using virtualenv, uncomment the following line and update it to your venv path; otherwise, delete it.
 # Environment="PATH=/home/ec2-user/pdf_web/venv/bin"
 
-# 改用 Gunicorn 啟動：4 個 worker、backlog 1024，綁定 0.0.0.0:8080
-# 注意把 /usr/local/bin/gunicorn 換成 `which gunicorn` 回傳的路徑
+# Use Gunicorn to launch: 4 workers, backlog of 1024, bound to 0.0.0.0:8080
+# Note: replace /usr/local/bin/gunicorn with the path returned by `which gunicorn`
 ExecStart=/home/ec2-user/.local/bin/gunicorn -w 4 --backlog 1024 -b 0.0.0.0:808>
 
-# 若 Gunicorn 崩掉，5 秒後自動重啟
+# restart if crush
 Restart=always
 RestartSec=5
 
@@ -138,20 +134,17 @@ sudo lsof -i:8080
 
 sudo dnf install -y glibc-all-langpacks
 
-# 2. 生成并启用 zh_TW.UTF-8
 sudo localedef -i zh_TW -f UTF-8 zh_TW.UTF-8 || true
 
-# 3. 写入系统默认 locale
 cat <<EOF | sudo tee /etc/locale.conf
 LANG=zh_TW.UTF-8
 LC_ALL=zh_TW.UTF-8
 EOF
 
-# 4. 立即生效
 export LANG=zh_TW.UTF-8
 export LC_ALL=zh_TW.UTF-8
 
-# （可选）让 Python 默认 stdout/stderr 也走 UTF-8
+Python, UTF-8
 echo 'export PYTHONIOENCODING=utf-8' | sudo tee /etc/profile.d/python-io-encoding.sh
 
 
